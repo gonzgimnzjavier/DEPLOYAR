@@ -1,0 +1,30 @@
+div{
+	text-align: center;
+}
+fieldset{
+	padding: 20px;
+	padding-bottom: 20px;
+	color: whitesmoke;
+	background-color: whitesmoke;
+	width: 75%;
+}
+.black{
+	color: black;
+}
+h3{
+	color: lightslategrey;
+}
+.borde{
+	border: solid black 1px;
+	width: 78%;
+}
+.gris{
+	color: grey;
+}
+img{
+margin-right: 20px;
+width: 3%;
+}
+.margen{
+	margin-right: 20px;
+}
